@@ -1,4 +1,4 @@
-# Pollen Grain Classification using CNN
+# Pollen Profiling: Classification of Pollen Grains using CNN
 
 ## Description
 This project implements a Convolutional Neural Network (CNN) to classify pollen grain images automatically.
